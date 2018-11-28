@@ -3,8 +3,23 @@
     display: inline-block;
 }
 
+.tabs {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+}
+
 .dropdown-content {
 	position: absolute;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
 }
 
 .dropdown:hover .dropdown-content {display: block;}
