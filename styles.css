@@ -1,5 +1,5 @@
 .tabs {
-    background-color: #4CAF50;
+    background-color: #50D1FF;
     color: white;
     padding: 16px;
     font-size: 16px;
@@ -31,4 +31,4 @@
 
 .dropdown:hover .dropdown-content {display: block;}
 
-.dropdown:hover .dropbtn {background-color: #3e8e41;}
+.dropdown:hover .tabs {background-color: #35C3F6;}
