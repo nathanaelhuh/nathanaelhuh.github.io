@@ -4,6 +4,7 @@ body {
 
 .tabs {
 	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	background-color: #ddd;
 	color: white;
 	padding: 16px;
 	font-size: 16px;
